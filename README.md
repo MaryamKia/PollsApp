@@ -1,3 +1,3 @@
 # PollsApp
 PollsApp, for educational purpose.
-Django<=1.11
+Django<=2.1.4
